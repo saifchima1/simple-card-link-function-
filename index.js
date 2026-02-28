@@ -36,5 +36,5 @@ const link_button = document.getElementById("link");
 let google_link = "https://www.google.com/"; 
 let google = new Link(link_button,google_link, true); //we make a variable for each class use so here we make one for the link u made
 google.run(); //we use the run method from the Link class\
-link_button.addEventListener()
+
 
